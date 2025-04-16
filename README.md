@@ -9,3 +9,5 @@ chmod +x mvnw && ./mvnw spring-boot:run
 cd frontend
 npm start
 
+# Demo
+https://github.com/veenasnoobcode/Enc_Dec_Example/blob/main/Demo_.mp4
